@@ -8,3 +8,5 @@ At minimum, the clearing of `ISC_SHOWUICANDIDATEWINDOW` needs to be put inside a
 
 Have deliberately omitted Visual Studio config files.
 To run, create a skeleton project and add these files.
+
+![Screenshot](pacamara.github.com/ImmGetCandidateListDemo/ImmGetCandidateListDemo-screenie2.png)
